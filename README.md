@@ -9,8 +9,7 @@
 
 - 🧑‍💻 I'm a graduate student.
 - 🌱 I’m currently learning kotlin!
-- 📫 How to reach me: takasuka00@gmail.com
- <!--  [Twitter - @username](https://twitter.com/username) -->
+- 📫 How to reach me: [Linkedin - Sota Takasuka](https://www.linkedin.com/in/sota-takasuka-74706531a/)
 <br>
 
 
