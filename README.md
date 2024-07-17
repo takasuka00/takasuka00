@@ -7,9 +7,10 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ##  Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 🧑‍💻 I'm a graduate student.
+- 🌱 I’m currently learning kotlin!
+- 📫 How to reach me: takasuka00@gmail.com
+ <!--  [Twitter - @username](https://twitter.com/username) -->
 <br>
 
 
